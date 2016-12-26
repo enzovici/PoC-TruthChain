@@ -36,21 +36,3 @@ $ DOCKER_MACHINE_IP=$(docker-machine ip) make
 The app will be available at <http://localhost:33000> (replace ``localhost`` with your
 docker-machine ip as necessary).
 
-### Locally
-
-If you'd like to run this locally (preferably in a virtualenv), you can do so using
-the handy CLI:
-
-```bash
-$ bigchaindb-examples --help
-
-# Start everything
-$ bigchaindb-examples start --init --all
-
-# Reset everything
-$ bigchaindb-examples reset-all
-```
-
-The app will be available at <http://localhost:3000>.
-
-
