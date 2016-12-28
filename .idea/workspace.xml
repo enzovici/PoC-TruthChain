@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="67853e30-a811-41d4-b6c8-d3b3c8011371" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LICENSES.md" afterPath="$PROJECT_DIR$/LICENSES.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Makefile" afterPath="$PROJECT_DIR$/Makefile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps_config.py" afterPath="$PROJECT_DIR$/apps_config.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/app_index_template.html" afterPath="$PROJECT_DIR$/client/app_index_template.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/browserlist" afterPath="$PROJECT_DIR$/client/browserlist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/demo/index.html" afterPath="$PROJECT_DIR$/client/demo/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/demo/start.html" afterPath="$PROJECT_DIR$/client/demo/start.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/demo/styles.css" afterPath="$PROJECT_DIR$/client/demo/styles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/demo/windowing.js" afterPath="$PROJECT_DIR$/client/demo/windowing.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/interledger/js/app.js" afterPath="$PROJECT_DIR$/client/interledger/js/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/interledger/js/components/account_detail.js" afterPath="$PROJECT_DIR$/client/interledger/js/components/account_detail.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/interledger/js/components/asset_row.js" afterPath="$PROJECT_DIR$/client/interledger/js/components/asset_row.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/interledger/js/components/assets.js" afterPath="$PROJECT_DIR$/client/interledger/js/components/assets.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/interledger/js/components/interledger.js" afterPath="$PROJECT_DIR$/client/interledger/js/components/interledger.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/interledger/scss/custom_style.scss" afterPath="$PROJECT_DIR$/client/interledger/scss/custom_style.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/lib/css/scss/account.scss" afterPath="$PROJECT_DIR$/client/lib/css/scss/account.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/lib/css/scss/asset.scss" afterPath="$PROJECT_DIR$/client/lib/css/scss/asset.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/lib/css/scss/card.scss" afterPath="$PROJECT_DIR$/client/lib/css/scss/card.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/lib/css/scss/custom_bootstrap.scss" afterPath="$PROJECT_DIR$/client/lib/css/scss/custom_bootstrap.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/lib/css/scss/main.scss" afterPath="$PROJECT_DIR$/client/lib/css/scss/main.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/lib/css/scss/normalize.css" afterPath="$PROJECT_DIR$/client/lib/css/scss/normalize.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/lib/css/scss/search.scss" afterPath="$PROJECT_DIR$/client/lib/css/scss/search.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/lib/css/scss/sidebar.scss" afterPath="$PROJECT_DIR$/client/lib/css/scss/sidebar.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/lib/css/scss/spinner.scss" afterPath="$PROJECT_DIR$/client/lib/css/scss/spinner.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/lib/css/scss/style.scss" afterPath="$PROJECT_DIR$/client/lib/css/scss/style.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/lib/css/scss/variables.scss" afterPath="$PROJECT_DIR$/client/lib/css/scss/variables.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/lib/js/constants/api_urls.js" afterPath="$PROJECT_DIR$/client/lib/js/constants/api_urls.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/lib/js/constants/application_constants.js" afterPath="$PROJECT_DIR$/client/lib/js/constants/application_constants.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/lib/js/plugins/ledger_utils.js" afterPath="$PROJECT_DIR$/client/lib/js/plugins/ledger_utils.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/lib/js/react/actions/account_actions.js" afterPath="$PROJECT_DIR$/client/lib/js/react/actions/account_actions.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/lib/js/react/actions/asset_actions.js" afterPath="$PROJECT_DIR$/client/lib/js/react/actions/asset_actions.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/lib/js/react/alt.js" afterPath="$PROJECT_DIR$/client/lib/js/react/alt.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/lib/js/react/components/account_detail.js" afterPath="$PROJECT_DIR$/client/lib/js/react/components/account_detail.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/lib/js/react/components/account_list.js" afterPath="$PROJECT_DIR$/client/lib/js/react/components/account_list.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/lib/js/react/components/asset_action_panel.js" afterPath="$PROJECT_DIR$/client/lib/js/react/components/asset_action_panel.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/lib/js/react/components/asset_detail.js" afterPath="$PROJECT_DIR$/client/lib/js/react/components/asset_detail.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/lib/js/react/components/bigchaindb_connection.js" afterPath="$PROJECT_DIR$/client/lib/js/react/components/bigchaindb_connection.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/lib/js/react/components/search.js" afterPath="$PROJECT_DIR$/client/lib/js/react/components/search.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/lib/js/react/components/spinner.js" afterPath="$PROJECT_DIR$/client/lib/js/react/components/spinner.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/lib/js/react/sources/account_source.js" afterPath="$PROJECT_DIR$/client/lib/js/react/sources/account_source.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/lib/js/react/sources/asset_source.js" afterPath="$PROJECT_DIR$/client/lib/js/react/sources/asset_source.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/lib/js/react/stores/account_store.js" afterPath="$PROJECT_DIR$/client/lib/js/react/stores/account_store.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/lib/js/react/stores/asset_store.js" afterPath="$PROJECT_DIR$/client/lib/js/react/stores/asset_store.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/lib/js/utils/bigchaindb/in_backlog.js" afterPath="$PROJECT_DIR$/client/lib/js/utils/bigchaindb/in_backlog.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/lib/js/utils/cryptoconditions/filter_by_type.js" afterPath="$PROJECT_DIR$/client/lib/js/utils/cryptoconditions/filter_by_type.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/lib/js/utils/cryptoconditions/parse_escrow_data.js" afterPath="$PROJECT_DIR$/client/lib/js/utils/cryptoconditions/parse_escrow_data.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/lib/js/utils/cryptoconditions/type_ids.js" afterPath="$PROJECT_DIR$/client/lib/js/utils/cryptoconditions/type_ids.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/lib/js/utils/request.js" afterPath="$PROJECT_DIR$/client/lib/js/utils/request.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/on_the_record/js/app.js" afterPath="$PROJECT_DIR$/client/on_the_record/js/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/on_the_record/js/components/asset_history.js" afterPath="$PROJECT_DIR$/client/on_the_record/js/components/asset_history.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/on_the_record/js/components/assets.js" afterPath="$PROJECT_DIR$/client/on_the_record/js/components/assets.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/on_the_record/js/components/on_the_record.js" afterPath="$PROJECT_DIR$/client/on_the_record/js/components/on_the_record.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/on_the_record/scss/custom_style.scss" afterPath="$PROJECT_DIR$/client/on_the_record/scss/custom_style.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/package.json" afterPath="$PROJECT_DIR$/client/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/server.demo.js" afterPath="$PROJECT_DIR$/client/server.demo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/share_trader/js/app.js" afterPath="$PROJECT_DIR$/client/share_trader/js/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/share_trader/js/components/asset_matrix.js" afterPath="$PROJECT_DIR$/client/share_trader/js/components/asset_matrix.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/share_trader/js/components/asset_row.js" afterPath="$PROJECT_DIR$/client/share_trader/js/components/asset_row.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/share_trader/js/components/assets.js" afterPath="$PROJECT_DIR$/client/share_trader/js/components/assets.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/share_trader/js/components/share_trader.js" afterPath="$PROJECT_DIR$/client/share_trader/js/components/share_trader.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/share_trader/scss/custom_style.scss" afterPath="$PROJECT_DIR$/client/share_trader/scss/custom_style.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/webpack.config.js" afterPath="$PROJECT_DIR$/client/webpack.config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commands/bigchaindb_examples.py" afterPath="$PROJECT_DIR$/commands/bigchaindb_examples.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compose/frontend/Dockerfile" afterPath="$PROJECT_DIR$/compose/frontend/Dockerfile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compose/server/Dockerfile" afterPath="$PROJECT_DIR$/compose/server/Dockerfile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs.yml" afterPath="$PROJECT_DIR$/docs.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/Makefile" afterPath="$PROJECT_DIR$/docs/Makefile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/source/ack.rst" afterPath="$PROJECT_DIR$/docs/source/ack.rst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/source/conf.py" afterPath="$PROJECT_DIR$/docs/source/conf.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/source/docs.rst" afterPath="$PROJECT_DIR$/docs/source/docs.rst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/source/index.rst" afterPath="$PROJECT_DIR$/docs/source/index.rst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/source/install.rst" afterPath="$PROJECT_DIR$/docs/source/install.rst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/source/interledger.rst" afterPath="$PROJECT_DIR$/docs/source/interledger.rst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/source/ontherecord.rst" afterPath="$PROJECT_DIR$/docs/source/ontherecord.rst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/source/run.rst" afterPath="$PROJECT_DIR$/docs/source/run.rst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/source/sharetrader.rst" afterPath="$PROJECT_DIR$/docs/source/sharetrader.rst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/source/structure.rst" afterPath="$PROJECT_DIR$/docs/source/structure.rst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/source/troubleshooting.rst" afterPath="$PROJECT_DIR$/docs/source/troubleshooting.rst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/init_accounts.py" afterPath="$PROJECT_DIR$/init_accounts.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/init_assets.py" afterPath="$PROJECT_DIR$/init_assets.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ledgers.yml" afterPath="$PROJECT_DIR$/ledgers.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/app.py" afterPath="$PROJECT_DIR$/server/app.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/config_bigchaindb.py" afterPath="$PROJECT_DIR$/server/config_bigchaindb.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/lib/api/views.py" afterPath="$PROJECT_DIR$/server/lib/api/views.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/lib/models/accounts.py" afterPath="$PROJECT_DIR$/server/lib/models/accounts.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/lib/models/assets.py" afterPath="$PROJECT_DIR$/server/lib/models/assets.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/lib/models/connector.py" afterPath="$PROJECT_DIR$/server/lib/models/connector.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/tornado_app.py" afterPath="$PROJECT_DIR$/server/tornado_app.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/setup.py" afterPath="$PROJECT_DIR$/setup.py" />
+    </list>
+    <ignored path="PoC-TruthChain.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="PoC-TruthChain" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="config_bigchaindb.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/server/config_bigchaindb.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/app.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1280" />
+    <option name="height" value="774" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PoC-TruthChain" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PoC-TruthChain" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PoC-TruthChain" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PoC-TruthChain" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PoC-TruthChain" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PoC-TruthChain" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PoC-TruthChain" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ccruntests" factoryName="Run Study Tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PoC-TruthChain" />
+      <option name="studyTest" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PoC-TruthChain" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PoC-TruthChain" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PoC-TruthChain" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PoC-TruthChain" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PoC-TruthChain" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1280" height="774" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2494043" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/server/app.py</url>
+          <line>50</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/server/config_bigchaindb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/config_bigchaindb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
