@@ -70,7 +70,7 @@ const ShareTrader = React.createClass({
         return (
             <div>
                 <Navbar fixedTop inverse>
-                    <h1 style={{ textAlign: 'center', color: 'white' }}>Share Trader</h1>
+                    <h1 style={{ textAlign: 'center', color: 'white' }}>Manufactuer</h1>
                 </Navbar>
                 <div id="wrapper">
                     <div id="sidebar-wrapper">

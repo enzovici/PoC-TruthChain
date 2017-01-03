@@ -73,7 +73,7 @@ const OnTheRecord = React.createClass({
         return (
             <div>
                 <Navbar fixedTop inverse>
-                    <h1 style={{ textAlign: 'center', color: 'white' }}>"On the Record"</h1>
+                    <h1 style={{ textAlign: 'center', color: 'white' }}>"TruthChain"</h1>
                 </Navbar>
                 <div id="wrapper">
                     <div id="sidebar-wrapper">

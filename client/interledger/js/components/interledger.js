@@ -42,7 +42,7 @@ const Interledger = React.createClass({
         return (
             <div>
                 <Navbar fixedTop inverse>
-                    <h1 style={{ textAlign: 'center', color: 'white' }}>Interledger</h1>
+                    <h1 style={{ textAlign: 'center', color: 'white' }}>Check Product</h1>
                 </Navbar>
                 <div id="wrapper">
                     <div id="page-content-wrapper">
